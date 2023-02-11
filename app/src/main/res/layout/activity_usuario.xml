@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UsuarioActivity">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tablayoutUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_700"
+        app:tabIconTint="@color/yellow"
+        app:tabIndicatorColor="#FF5722"
+        app:tabSelectedTextColor="@color/black"
+        app:tabTextColor="#F1F1F1">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tabListadoUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/vector_listadoicon"
+            android:text="LISTAR" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tabAgregarUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/vector_addicon"
+            android:text="AGREGAR" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tabModificarUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/vector_editicon"
+            android:text="MODIFICAR" />
+    </com.google.android.material.tabs.TabLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpagerUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

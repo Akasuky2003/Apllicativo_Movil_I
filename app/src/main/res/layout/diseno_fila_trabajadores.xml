@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ccc"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="281dp">
+
+            <TextView
+                android:id="@+id/tvCod_trabajadores"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Codigo:"
+                app:layout_constraintBottom_toTopOf="@+id/lvimgTrabajador"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.08"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.78" />
+
+            <TextView
+                android:id="@+id/tvNombresTrabajadores"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:text="Nombres:"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tvApellidoPaternoTrabajadores"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Apellido paterno:"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvNombresTrabajadores" />
+
+            <TextView
+                android:id="@+id/tvApellidoMaterno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Apellido Materno:"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvDirecionTrabajador" />
+
+            <TextView
+                android:id="@+id/tvDniTrabajador"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="DNI"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvApellidoMaterno" />
+
+            <TextView
+                android:id="@+id/tvDirecionTrabajador"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Direccion:"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvApellidoPaternoTrabajadores" />
+
+            <TextView
+                android:id="@+id/tvTelefonoTrabajador"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Nunero Telefonico"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvDniTrabajador" />
+
+            <TextView
+                android:id="@+id/tvCargotrabajador"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Cargo"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvTelefonoTrabajador" />
+
+            <TextView
+                android:id="@+id/tvSexoTrabajador"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Genero"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvCargotrabajador" />
+
+            <TextView
+                android:id="@+id/tvCorreoTrabajador"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Correo Electronico"
+                app:layout_constraintStart_toEndOf="@+id/lvimgTrabajador"
+                app:layout_constraintTop_toBottomOf="@+id/tvSexoTrabajador" />
+
+            <ImageView
+                android:id="@+id/lvimgTrabajador"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_marginStart="16dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.496"
+                tools:srcCompat="@tools:sample/avatars" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

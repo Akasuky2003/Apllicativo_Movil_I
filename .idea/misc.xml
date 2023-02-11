@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/button_error_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/button_neutral_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/button_success_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/button_warning_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/dialog_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/error_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/success_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/drawable/warning_background.xml" value="0.1935" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_ayuda.xml" value="0.33" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_clientes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_contacto.xml" value="0.21739130434782608" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_detalle_cliente.xml" value="0.33" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_detalle_trabajador.xml" value="0.2259963768115942" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_fila_usuario.xml" value="0.223731884057971" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_login.xml" value="0.21739130434782608" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_menu_principal.xml" value="0.33" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_producto.xml" value="0.21240942028985507" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_trabajador.xml" value="0.13636363636363635" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/activity_usuario.xml" value="0.223731884057971" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/diseno_fila_clientes.xml" value="0.25" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/diseno_fila_trabajadores.xml" value="0.36666666666666664" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_agregar_cliente.xml" value="0.17831813576494426" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_agregar_trabajador.xml" value="0.33" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_agregar_usuario.xml" value="0.223731884057971" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_listado_clientes.xml" value="0.33" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_listado_trabajador.xml" value="0.36666666666666664" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_listar_producto.xml" value="0.21240942028985507" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_listar_usuario.xml" value="0.223731884057971" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_modificar_cliente.xml" value="0.25" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_modificar_producto.xml" value="0.17831813576494426" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_modificar_producto2.xml" value="0.17831813576494426" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_modificar_trabajador.xml" value="0.35260416666666666" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/fragment_modificar_usuario.xml" value="0.223731884057971" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/layout_error_dialog.xml" value="0.33" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/layout_success_dialog.xml" value="0.21240942028985507" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/layout/layout_warning_dialog.xml" value="0.21240942028985507" />
+        <entry key="..\:/Cristofer/CICLO 5/Aplicaciones Moviles I/Trabajos/JhansContreras/ProyectoObregon/app/src/main/res/menu/menu_obregon.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
